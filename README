@@ -1,0 +1,11 @@
+An example of the music player you did when you first learned android
+Implemented the music files from the android mobile media library
+The menu interface USES the ListVIew to display the song information
+The homepage interface shows the album image
+The progress bar
+
+初学安卓时候做的一个音乐播放器的例子
+实现了从安卓手机媒体库获取音乐文件
+菜单界面利用的ListVIew显示歌曲信息
+主页界面显示专辑图片
+进度条
